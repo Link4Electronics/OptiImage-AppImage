@@ -11,7 +11,7 @@ export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}
 export ICON=/usr/share/icons/hicolor/scalable/apps/org.kde.optiimage.svg
 export DESKTOP=/usr/share/applications/org.kde.optiimage.desktop
 export DEPLOY_QT=1
-
+export QT_DIR=qt6
 
 # Deploy dependencies
 quick-sharun /usr/bin/optiimage
