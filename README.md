@@ -7,13 +7,13 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/OptiImage-AppImage)](https://github.com/pkgforge-dev/OptiImage-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/pkgforge-dev.png" width="128" />
+  <img src="https://invent.kde.org/graphics/optiimage/-/raw/master/org.kde.optiimage.svg?ref_type=heads" width="128" />
 </p>
 
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/OptiImage-AppImage/releases/latest) | [Click here](https://github.com/pkgforge-dev/Anylinux-AppImages) |
+| [Click here](https://github.com/pkgforge-dev/OptiImage-AppImage/releases/latest) | [Click here](https://invent.kde.org/graphics/optiimage) |
 
 </div>
 
